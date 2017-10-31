@@ -1,9 +1,10 @@
 pipeline {
   agent any
   stages {
-    stage('') {
+    stage('scm') {
       steps {
-        echo 'fgfdghhgdj'
+        echo ' vcbgghfghfgfg'
+        echo 'grertedgfdgfdfgd'
       }
     }
   }
